@@ -1,16 +1,16 @@
 Package: com.fatima.backgesture
-Version: 0.0.1
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: Fatima
 Installed-Size: 380
-Depends: mobilesubstrate, preferenceloader
-Filename: ./com.fatima.backgesture_0.0.1_iphoneos-arm64.deb
-Size: 34474
-MD5sum: 0eb50e9c09afa40acda2c1d29257b0e8
-SHA1: a5b641ec8fc21e76058d748e4ef64fe0ea869cd3
-SHA256: 17159b1c44ee4ae10959be41a5385edec408423c5e4507b5371b81e65a13434b
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./com.fatima.backgesture_0.0.4_iphoneos-arm64.deb
+Size: 36016
+MD5sum: 823ece474d9d938379e741ac0b561cf3
+SHA1: 2754b560f48f4b84da43bc1abbe98ab95409da2c
+SHA256: c6530b3a6dfb270539b320387b18f9e4f6f3ee5903a51e23ba8b5056ac3da1f8
 Section: Tweaks
-Description: Android-style back gesture with a droplet indicator
+Description: Android-style back gesture with a droplet. Works on iOS 15 to 17 (rootless jailbreaks).
 Author: Fatima
 Name: BackGesture
 
