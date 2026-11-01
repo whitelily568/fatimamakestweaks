@@ -15,16 +15,16 @@ Author: Fatima
 Name: BackGesture
 
 Package: com.fatima.prism18
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: Fatima
 Installed-Size: 668
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
-Filename: ./com.fatima.prism18_0.0.5_iphoneos-arm64.deb
-Size: 289950
-MD5sum: 7e4e7d7dfcae81650d360b2eb4726295
-SHA1: 1fc83457fae520c9ae85f39093a3af930440ae0a
-SHA256: 142cef6d85b80c636b0921becb00cba71dd5a14e09ecac0d110118b9a3d429a6
+Filename: ./com.fatima.prism18_0.0.6_iphoneos-arm64.deb
+Size: 289848
+MD5sum: 3048f4fd25eb25bafed6b88b8875b631
+SHA1: eb729e7bc154da46c96d7a49b25c8a2e0e1a7100
+SHA256: b4720e3eef27ae4592aaa1790e76e24fa81759042aca60eeb96e2793968aa06e
 Section: Tweaks
 Description: iOS 18 style home screen icon looks for iOS 16: Light, Dark, Auto and Tinted. Works on iOS 16 only (rootless jailbreaks).
 Author: Fatima
