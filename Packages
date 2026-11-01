@@ -14,3 +14,20 @@ Description: Android-style back gesture with a droplet. Works on iOS 16 only (ro
 Author: Fatima
 Name: BackGesture
 
+Package: com.fatima.prism18
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Fatima
+Installed-Size: 632
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Filename: ./com.fatima.prism18_0.0.2_iphoneos-arm64.deb
+Size: 280114
+MD5sum: 0b5cdfdfbf46d3cadd7414ff28af6f43
+SHA1: 95f13d187d8d37126044c0a7c284829aecd18dab
+SHA256: 22d45f1cc4ce40745717d0ba374fdff2fd9346a966dfc7c3060d43a16735cdf5
+Section: Tweaks
+Description: iOS 18 style home screen icon looks for iOS 16: Light, Dark, Auto and Tinted. Works on iOS 16 only (rootless jailbreaks).
+Author: Fatima
+Icon: https://whitelily568.github.io/fatimamakestweaks/prism18.png
+Name: Prism18
+
