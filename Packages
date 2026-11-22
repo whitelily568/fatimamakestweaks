@@ -13,3 +13,21 @@ Section: Tweaks
 Description: Android-style back gesture with a droplet. Works on iOS 16 only (rootless jailbreaks).
 Author: Fatima
 Name: BackGesture
+
+Package: com.fatima.circa
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Fatima
+Installed-Size: 676
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
+Filename: ./com.fatima.circa_0.0.2_iphoneos-arm64.deb
+Size: 304496
+MD5sum: 8081478642e8fc8dedb8aa451269729c
+SHA1: 1984810630bc7619748910154507601ece7c1023
+SHA256: 081a46636bc1f9021d9f3508db0e13f7e6c4f97772da31c335a4480d0bb2da1b
+Section: Tweaks
+Description: Circle to Search for iOS. Double-tap anywhere, draw a circle around something, and search for it. Works on iOS 16 only (rootless jailbreaks).
+Author: Fatima
+Icon: https://whitelily568.github.io/fatimamakestweaks/circa.png
+Name: Circa
+
