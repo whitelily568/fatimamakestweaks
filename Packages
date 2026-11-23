@@ -15,16 +15,16 @@ Author: Fatima
 Name: BackGesture
 
 Package: com.fatima.circa
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: Fatima
 Installed-Size: 708
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 17.0)
-Filename: ./com.fatima.circa_0.0.3_iphoneos-arm64.deb
-Size: 309536
-MD5sum: 920fb0a060e6be1ba595a0f6654c45c3
-SHA1: 986fd8a7d11113180007ffd75d47e85983e4ca61
-SHA256: 7b6882070423d798ebcc448f285031d95fe99cf71c319e7923d059a4545a896b
+Filename: ./com.fatima.circa_0.0.4_iphoneos-arm64.deb
+Size: 309618
+MD5sum: d16c896b4b71c4f25e57dd9668e5facf
+SHA1: e0b5ea8f6b521b78343447d6f80fd35156486b07
+SHA256: 78b0a90745006208384e57d230ce9b033ba920417e8e80d48a65755535f3022e
 Section: Tweaks
 Description: Circle to Search for iOS. Double-tap anywhere, draw a circle around something, and search for it. Works on iOS 16 only (rootless jailbreaks).
 Author: Fatima
